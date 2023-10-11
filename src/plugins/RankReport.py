@@ -8,7 +8,7 @@ from nonebot.plugin.on import on_command
 
 user = {}
 ops = {'1920379084'}
-cooldown = 300
+cooldown = 120
 rankSeason = 5
 
 
