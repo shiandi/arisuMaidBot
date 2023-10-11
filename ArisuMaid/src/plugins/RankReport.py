@@ -9,7 +9,7 @@ from nonebot.plugin.on import on_command
 user = {}
 ops = {'1920379084'}
 cooldown = 300
-rankSeason = 4
+rankSeason = 5
 
 
 # 获取爬取地址
