@@ -1,12 +1,11 @@
-# ArisuMaid
+# ArisuMaidBot
+## 爱丽丝卷狗机器人
 
-## How to start
+使用方法：
 
-1. generate project using `nb create` .
-2. create your plugin using `nb plugin create` .
-3. writing your plugins under `src/plugins` folder.
-4. run your bot using `nb run` .
+/总力战官服  
+/总力战b/B服
 
-## Documentation
+可获取对应服务器的实时最新总力战排名数据
 
-See [Docs](https://v2.nonebot.dev/)
+数据来源：[碧蓝档案 总力档线追踪](http://ba.gamerhub.cn/)
